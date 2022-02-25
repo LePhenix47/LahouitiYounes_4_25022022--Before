@@ -1,5 +1,7 @@
 # LahouitiYounes_4_25052022--Before
 This repo contains the 4th OpenClassroom's project
+They gave me the code of the website
+
 
 In this website there a lot of problems, especially with its accessibility and search engine optimisation.
 
